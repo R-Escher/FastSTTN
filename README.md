@@ -9,11 +9,13 @@
 ## Citation
 If you find our code helpful, please cite us:
 ```
-@inproceedings{,
-  author = {},
-  title = {Fast Spatial-Temporal Transformer Network},
-  booktitle = {},
-  year = {2021}
+@INPROCEEDINGS{9643147,
+  author={Escher, Rafael Molossi and de Bem, Rodrigo Andrade and Drews, Paulo Lilles Jorge},
+  booktitle={2021 34th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI)}, 
+  title={Fast Spatial-Temporal Transformer Network}, 
+  year={2021},
+  pages={65-72},
+  doi={10.1109/SIBGRAPI54419.2021.00018}
 }
 ```
 
