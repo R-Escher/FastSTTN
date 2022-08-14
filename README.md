@@ -2,7 +2,7 @@
 
 ![teaser](https://github.com/R-Escher/FastSTTN/blob/master/docs/teaser.png?raw=true)
 
-### [Paper](link to paper) | [Video](link to video)
+### [Paper](http://sibgrapi.sid.inpe.br/rep/8JMKD3MGPEW34M/45CUSQ5)
 
 
 <!-- ---------------------------------------------- -->
